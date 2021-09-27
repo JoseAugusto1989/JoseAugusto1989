@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo Html, Css e Javascript e um pouco de SpringBoot também
 
 <div>
-  <a href="https://github.com/FabricioCruzz">
+  <a href="https://github.com/JoseAugusto1989">
   <img allign="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JoseAugusto1989&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img allign="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAugusto1989&layout=compact&langs_count=7&theme=dracula"/>
 </div>
