@@ -20,6 +20,7 @@
    <img allign="center" alt="JoseAugusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
    <img allign="center" alt="JoseAugusto-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
    <img allign="center" alt="JoseAugusto-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+   <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   ##  Redes Sociais e Contato
