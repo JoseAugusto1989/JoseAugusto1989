@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou José Augusto, seja bem vindo ao meu perfil.
 
 - 🔭 Atualmente sou estudante de Sistemas... 
-- 🌱 Estou aprendendo Html, Css e Javascript e um pouco de SpringBoot também
+- 🌱 Estou aprendendo Html, Css e Javascript e um pouco de Flutter e Dart também...
 
 <div>
   <a href="https://github.com/JoseAugusto1989">
@@ -15,7 +15,6 @@
 <div>
    <img allign="center" alt="JoseAugusto-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
    <img allign="center" alt="JoseAugusto-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-   <img allign="center" alt="JoseAugusto-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
    <img allign="center" alt="JoseAugusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
    <img allign="center" alt="JoseAugusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
    <img allign="center" alt="JoseAugusto-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
