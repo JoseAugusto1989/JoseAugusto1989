@@ -23,7 +23,8 @@
    <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons//dart/dart-plain-wordmark.svg">
    <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
    <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-   <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+   <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
 </div>
   
   ##  Redes Sociais e Contato
