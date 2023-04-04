@@ -21,7 +21,7 @@
    <img allign="center" alt="JoseAugusto-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
    <img allign="center" alt="JoseAugusto-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
    <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-   <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons//dart/dart-plain-wordmark.svg">
+   <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
    <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
    <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
    <img allign="center" alt="JoseAugusto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
